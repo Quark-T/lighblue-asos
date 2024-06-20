@@ -1,0 +1,136 @@
+
+
+
+.wVvhx {
+    width: 102px;
+}
+
+.JiWBJ {
+    margin: 0;
+    padding: 0;
+    height: 20px;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center
+}
+
+.PHg45 {
+    position: relative;
+    display: block;
+    margin-right: 8px
+}
+ 
+.X3LJZ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center
+}
+
+.I21qs {
+    margin: 0 8px
+}
+ 
+.JO8_V {
+    height: 50px;
+    font-family: inherit;
+    background-color: rgba(0,0,0,0);
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center
+}
+
+ 
+ 
+
+.product-whatsapp-icon,
+.product-warning-prop65,
+.product-vk-icon,
+.product-van-small,
+.product-tinyheart-icon-red,
+.product-tinyheart-icon-pink,
+.product-tick-white,
+.asos-product .add-item button .product-tick,
+.product-tick-green,
+.product-share-icon,
+.product-shamrock-icon,
+.product-saved-for-later-count,
+.product-riverty-logo-info,
+.product-returns-box,
+.product-returns,
+.product-ratings-half,
+.product-ratings-full,
+.product-ratings-empty,
+.product-rating-value,
+.product-rating-quality,
+.product-rating-fit,
+.product-rating-fallback,
+.product-rating-comfort,
+.product-price-tag,
+.product-play-filled,
+.product-play,
+.product-pinterest-icon,
+.product-paypalpaylater-logo,
+.product-paypalpayin4-logo,
+.product-paypalpayin3-logo,
+.product-new-page-small,
+.product-new-page,
+.product-left-arrow-outlined,
+.product-klarna-logo,
+.product-ingredients-icon,
+.product-information-light,
+.product-information,
+.product-icon-fit-analytics,
+.product-icon-exclamation,
+.product-heartfull,
+.product-heartempty,
+.product-hanger,
+.product-facebook-icon,
+.product-email-white,
+.product-email-icon,
+.product-email,
+.product-delivery-van,
+.product-closesmall,
+.product-closelarge,
+.product-close,
+.product-clock,
+.product-clearpay-logo,
+.product-clearpay-info-logo,
+.product-christmas-icon,
+.product-chevron-right-outlined,
+.product-chevron-right-large-outlined,
+.product-chevron-right-large,
+.product-chevron-left-outlined,
+.product-chevron-left-large-outlined,
+.product-chevron-left-large,
+.product-chevron,
+.product-asos-spinner-logo-white,
+.product-asos-spinner-logo,
+.product-arvato-logo,
+.product-arrowup,
+.product-afterpay-logo,
+.product-360-selected,
+.product-360 {
+  background: url("https://www.asos.com/assets/productpg/pdp.spritesheet-79a828ff.svg")
+    no-repeat;
+}
+ 
+.product-ratings-empty {
+  background-position: -40px -265px;
+  width: 14px;
+  height: 14px;
+}
+.product-ratings-full {
+  background-position: -58px -265px;
+  width: 14px;
+  height: 14px;
+}
+.product-ratings-half {
+  background-position: -76px -265px;
+  width: 14px;
+  height: 14px;
+}
+.color-black {
+    color: black;
+}
