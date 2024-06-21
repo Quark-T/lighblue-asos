@@ -1,1 +1,7 @@
-
+@media (min-width: 1024px) {
+   .t4s-product-form__btn{
+ position:fixed!important;
+     margin-top:-200px;
+     margin-left:80vh!important;
+}
+}
